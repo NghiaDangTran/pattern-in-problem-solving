@@ -1,0 +1,15 @@
+How to understand the problem
+1. restate the problem in ur own words
+2. what are the inputs that go into the problem
+3. what are the outputs like
+4. given example input can u give the expeted outpuit?
+5. how should I label the important pieces of data that are a part of the problem
+
+Explore examples
+start with simple examples 
+progeress to more complex examples
+explore examples with empty inputs
+explore examples with invalid inout
+
+Break it down
+write out the steps you need to take
